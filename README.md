@@ -43,15 +43,8 @@ print("Result:", caesar_cipher(message,shift))
 ```
 
 ## OUTPUT:
-Encrypt or decrypt? (e/d): e
+<img width="802" height="112" alt="image" src="https://github.com/user-attachments/assets/e94e8067-9475-46c2-a7ce-f62793743f7c" />
 
-Enter your message: abc
-
-Enter shift value: 3
-
-Result: def
-
-An exception has occurred, use %tb to see the full traceback.
 
 ## RESULT:
 The program is executed successfully.
