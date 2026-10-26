@@ -43,7 +43,11 @@ print("Result:", caesar_cipher(message,shift))
 ```
 
 ## OUTPUT:
-
+Encrypt or decrypt? (e/d): e
+Enter your message: abc
+Enter shift value: 3
+Result: def
+An exception has occurred, use %tb to see the full traceback.
 
 ## RESULT:
 The program is executed successfully.
